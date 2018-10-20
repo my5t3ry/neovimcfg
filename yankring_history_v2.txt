@@ -1,0 +1,38 @@
+                    <jvmArguments>                        -Xdebug -Xrunjdwp:transport=dt_socket,server=server=y=8001                    </jvmArguments>,V
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>,V
+                        -agentlib:jdwp=transport=dt_socket,server=y,address=8000,V
+				\. ' -attach localhost:8000')),V
+				\.(has_key(a:args,'classpath') && !has_key(a:args,'attach') ? ' -classpath '.fnameescape(a:args.classpath) : ''),V
+	"pase,V
+gentlib:jdwp=transport=dt_socket,server=y,address=<port>jj,V
+cal# vttach('5005',{'srcpath':'src'}):qebugger#jdb#attach('5005',{'srcpath':'src'}),V
+    call vebugger#jdb#start('Main',{'classpath':'classes','srcpath':'src','args':['hello','world']}):,V
+                        <profile>bar</profile>,V
+    ...,V
+        ...,V
+      ...,V
+    <build>        <plugins>            <plugin>                <groupId>org.springframework.boot</groupId>                <artifactId>spring-boot-maven-plugin</artifactId>                <configuration>                    <jvmArguments>                        -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005                    </jvmArguments>                </configuration>            </plugin>        </plugins>    </build>,V
+    <build>        <plugins>            <plugin>                <groupId>org.springframework.boot</groupId>                <artifactId>spring-boot-maven-plugin</artifactId>                <configuration>                    <executable>true</executable>                </configuration>            </plugin>        </plugins>        <finalName>jazz-web</finalName>    </build>,V
+    errors.containsKeyvV,V
+ ,v
+                    </execution>                </executions>,V
+                            <executable>true</executable>,V
+ JazzWebApplication {,v
+            <profile>bar</profile>,V
+        },V
+        this.status = documentInfo.getStatus();,V
+        log.inRangef,V
+public class DuplicateRequest {"pumvisible() ? "\" : "\"pumvisible() ? "\" : "\":qa!,V
+,V
+package de.siemens.jazz;,V
+/profile,v
+local<,v
+                    localrofiles>,V
+        asdasda;,V
+        log.errori,V
+import ,V
+;,v
+        <module>jazz-service-eventapp</module>,V
+        System.out.println(result.name());,V
+    ,V
+	Option "HorizScrollDelta" "4"	Option "PalmDetect" "0"        Option "FingerHigh" "50"        Option "FingerLow" "15"        Option "TapButton1" "1"        Option "TapButton2" "3"	Option "MinSpeed" "1"	Option "MaxSpeed" "3"	Option "AccelFactor" "0.4",V
